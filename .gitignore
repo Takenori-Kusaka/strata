@@ -136,3 +136,6 @@ pycache/
 *.db
 *.sqlite
 .pglite/
+
+# Graphify Outputs
+graphify-out/
